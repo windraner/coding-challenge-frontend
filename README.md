@@ -1,6 +1,6 @@
 # Product Order Dashboard - AM Coding Challenge - Frontend (React)
 
-![AM Order Dashboard Challenge](https://github.com/AM-code-treasure/coding-challenge-frontend-react/blob/main/Order-Dashboard.png)
+![AM Order Dashboard Challenge](https://github.com/AM-code-treasure/coding-challenge-frontend-react/blob/main/Order-Dashboard-v2.png)
 
 ## The case study
 

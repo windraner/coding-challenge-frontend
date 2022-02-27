@@ -1,8 +1,8 @@
-# Product Order Dashboard - AM Coding Challenge - Frontend (React)
+# AM Coding Challenge - Frontend (React)
+
+## The case study: Product Order Dashboard
 
 ![AM Order Dashboard Challenge](https://github.com/AM-code-treasure/coding-challenge-frontend-react/blob/main/Order-Dashboard-v2.png)
-
-## The case study
 
 Monitoring their order target vs. actual orders is a typical problem for growing product businesses.
 To tackle that challenge, BLACK PRODUCTS Inc. wants to build an "order dashboard" - the software you will develop!

@@ -7,11 +7,11 @@
 Monitoring their order target vs. actual orders is a typical problem for growing product businesses.
 To tackle that challenge, BLACK PRODUCTS Inc. wants to build an "order dashboard" - the software you will develop!
 
-The orders are stored in a google sheet and need to be displayed using the [Google-Sheet API](https://developers.google.com/sheets/api)
+The orders are stored in a Google sheet and need to be displayed using the [Google-Sheet API](https://developers.google.com/sheets/api)
 
 ## Product Requirements
 
-As an employee of BLACK PRODUCTS Inc.,
+As an employee at BLACK PRODUCTS Inc.,
 
 - [ ] I want to see the sum of all orders for a given month
 - [ ] I want to be able to filter by month
@@ -34,23 +34,22 @@ As an employee of BLACK PRODUCTS Inc.,
 
 Create the React application that satisfies all must-have requirements above, plus any nice-to-have requirements you wish to include.
 
-For that, you’ll need to query the [Google-Sheet API](https://developers.google.com/sheets/api) and fetch the data from a publicly-available [Spreadsheet](https://docs.google.com/spreadsheets/d/1La-EJVOrNt3AwWHYvhuCQ5SRtFE9h_kYjgx0dau1HN4/edit?usp=sharing) that contains all the order data.
-
-The API is known to have some limitations. If you are not able to implement a particular requirement, please provide a description of what and why you could not implements.
+For that, you’ll need to use the [Google-Sheet API](https://developers.google.com/sheets/api) and fetch the data from this publicly-available [Spreadsheet](https://docs.google.com/spreadsheets/d/1La-EJVOrNt3AwWHYvhuCQ5SRtFE9h_kYjgx0dau1HN4/edit?usp=sharing) that contains all the order data.
 
 For the design of the dashboard, please refer to the provided [Figma](https://www.figma.com/file/bJINBUw3xoVfpbQ1BkPzs6/Untitled?node-id=1%3A2)
+If you are not able to implement a particular requirement, please provide a description of what and why you could not implement.
 
 You can use any boilerplate/approach you prefer (nextjs, create react app, ...), but try to keep it simple. We encourage you to use your favorite tools and packages to build a solid React application.
 
 You can assume that you do not have to support legacy browsers. Feel free to use modern features such as **fetch** or **flexbox**.
 
-You don't need to host your service publicly, but feel free to do that.
+You don't have to host your service publicly, but feel free to do that.
 Please include a description in the README.md how to run the project locally.
 
 ## Tech Requirements
 
 - React
-- Tests: Jest + react-testing-library / enzyme
+- Tests: Jest
 - Code Linter
 - Typescript is a plus
 - CSSinJS is a plus: styled-components, styled-system, ...

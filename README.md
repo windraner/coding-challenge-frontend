@@ -34,7 +34,7 @@ As an employee of BLACK PRODUCTS Inc.,
 
 Create the React application that satisfies all must-have requirements above, plus any nice-to-have requirements you wish to include.
 
-For that, you’ll need to query the [Google-Sheet API](https://developers.google.com/sheets/api) and fetch the data from a publicly-available [Spreadsheet] (https://docs.google.com/spreadsheets/d/1La-EJVOrNt3AwWHYvhuCQ5SRtFE9h_kYjgx0dau1HN4/edit?usp=sharing) that contains all the order data.
+For that, you’ll need to query the [Google-Sheet API](https://developers.google.com/sheets/api) and fetch the data from a publicly-available [Spreadsheet](https://docs.google.com/spreadsheets/d/1La-EJVOrNt3AwWHYvhuCQ5SRtFE9h_kYjgx0dau1HN4/edit?usp=sharing) that contains all the order data.
 
 The API is known to have some limitations. If you are not able to implement a particular requirement, please provide a description of what and why you could not implements.
 

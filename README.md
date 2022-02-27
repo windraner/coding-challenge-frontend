@@ -37,7 +37,7 @@ Create the React application that satisfies all must-have requirements above, pl
 For that, you’ll need to use the [Google-Sheet API](https://developers.google.com/sheets/api) and fetch the data from this publicly-available [Spreadsheet](https://docs.google.com/spreadsheets/d/1La-EJVOrNt3AwWHYvhuCQ5SRtFE9h_kYjgx0dau1HN4/edit?usp=sharing) that contains all the order data.
 
 For the design of the dashboard, please refer to the provided [Figma](https://www.figma.com/file/bJINBUw3xoVfpbQ1BkPzs6/Untitled?node-id=1%3A2)
-If you are not able to implement a particular requirement, please provide a description of what and why you could not implement.
+We expect a pixel-perfect design. If you are not able to implement a particular requirement, please provide a description of what and why you could not implement.
 
 You can use any boilerplate/approach you prefer (nextjs, create react app, ...), but try to keep it simple. We encourage you to use your favorite tools and packages to build a solid React application.
 

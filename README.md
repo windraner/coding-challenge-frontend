@@ -1,5 +1,7 @@
 # Product Order Dashboard - AM Coding Challenge - Frontend (React)
 
+![AM Order Dashboard Challenge](https://github.com/AM-code-treasure/coding-challenge-frontend-react/blob/main/Order-Dashboard.png)
+
 ## The case study
 
 Monitoring their order target vs. actual orders is a typical problem for growing product businesses.

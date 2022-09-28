@@ -49,10 +49,10 @@ Please include a description in the README.md how to run the project locally.
 
 ## Tech Requirements
 
-- React
+- React + Typescript 
+- use Redux to store the state 
 - Tests: Jest
 - Code Linter
-- Typescript is a plus
 - CSSinJS is a plus: styled-components, styled-system, ...
 
 ## Instructions
